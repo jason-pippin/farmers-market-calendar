@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Local Farmers Markets//Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Local Farmers Markets - Creedmoor & Durham
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:market-0-20261205@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261205T140000Z
+DTEND:20261205T170000Z
+SUMMARY:Durham Farmers Market
+LOCATION:501 Foster Street\, Durham\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://www.durhamfarmersmarket.co
+ m/
+URL:https://www.durhamfarmersmarket.com/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:market-0-20261212@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261212T140000Z
+DTEND:20261212T170000Z
+SUMMARY:Durham Farmers Market
+LOCATION:501 Foster Street\, Durham\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://www.durhamfarmersmarket.co
+ m/
+URL:https://www.durhamfarmersmarket.com/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:market-0-20261219@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261219T140000Z
+DTEND:20261219T170000Z
+SUMMARY:Durham Farmers Market
+LOCATION:501 Foster Street\, Durham\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://www.durhamfarmersmarket.co
+ m/
+URL:https://www.durhamfarmersmarket.com/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:market-1-20261205@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261205T140000Z
+DTEND:20261205T170000Z
+SUMMARY:South Durham Farmers Market
+LOCATION:Hub RTP\, Durham\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://southdurhamfarmersmarket.c
+ om/
+URL:https://southdurhamfarmersmarket.com/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:market-1-20261212@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261212T140000Z
+DTEND:20261212T170000Z
+SUMMARY:South Durham Farmers Market
+LOCATION:Hub RTP\, Durham\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://southdurhamfarmersmarket.c
+ om/
+URL:https://southdurhamfarmersmarket.com/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:market-1-20261219@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261219T140000Z
+DTEND:20261219T170000Z
+SUMMARY:South Durham Farmers Market
+LOCATION:Hub RTP\, Durham\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://southdurhamfarmersmarket.c
+ om/
+URL:https://southdurhamfarmersmarket.com/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:market-2-20261205@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261205T140000Z
+DTEND:20261205T170000Z
+SUMMARY:Wake Forest Farmers Market
+LOCATION:235 S Taylor Street\, Wake Forest\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://wakeforestmarket.org/
+URL:https://wakeforestmarket.org/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:market-2-20261212@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261212T140000Z
+DTEND:20261212T170000Z
+SUMMARY:Wake Forest Farmers Market
+LOCATION:235 S Taylor Street\, Wake Forest\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://wakeforestmarket.org/
+URL:https://wakeforestmarket.org/
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:market-2-20261219@local-farmers-calendar
+DTSTAMP:20261125T140000Z
+DTSTART:20261219T140000Z
+DTEND:20261219T170000Z
+SUMMARY:Wake Forest Farmers Market
+LOCATION:235 S Taylor Street\, Wake Forest\, NC\, USA
+DESCRIPTION:Typical winter hours\; confirm holiday schedule before visiting
+ . Expected seasonal produce: kale\, collards\, cabbage\, carrots\, turnips
+ \, sweet potatoes and winter squash. Look for eggs and other protein sourc
+ es. Vendor availability not confirmed.\nhttps://wakeforestmarket.org/
+URL:https://wakeforestmarket.org/
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
